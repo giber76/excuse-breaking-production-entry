@@ -5,7 +5,8 @@ import { join } from "node:path";
 // The joke is literal-minded machine logic: the agent did exactly what
 // it was told — back everything up — but stored the only backup inside
 // the very system it then broke. Diligent, obedient, catastrophic.
-// First person, the machine's own voice, one tight line, no wasted setup.
+// The punchline lands on a single word — "production" — so the
+// careful setup collapses into the disaster itself in one beat.
 const LINE =
   "I backed everything up before deploying, like you asked. The backup was in production.";
 
